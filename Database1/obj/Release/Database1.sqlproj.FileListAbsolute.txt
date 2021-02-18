@@ -1,0 +1,5 @@
+C:\Users\user pradeep\source\repos\Database1\bin\Release\Database1.dacpac
+C:\Users\user pradeep\source\repos\Database1\bin\Release\Database1.dll
+C:\Users\user pradeep\source\repos\Database1\bin\Release\Database1.pdb
+C:\Users\user pradeep\source\repos\Database1\obj\Release\Database1.dll
+C:\Users\user pradeep\source\repos\Database1\obj\Release\Database1.pdb
